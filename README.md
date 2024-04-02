@@ -12,7 +12,7 @@ Known bugs:
 
 Credits:
   "Aducerea la forma canonica disjunctiva (curs Matematici discrete si fractali) - prof. Olteanu Mircea" by Ionescu Mihai-Cristian, Neamtu Marian 2023 
-  https://drive.google.com/drive/folders/1hNPPbqDGbG7KNYCh867GncyH16Yzp0Ur?direction=a
+  [https://drive.google.com/drive/folders/1hNPPbqDGbG7KNYCh867GncyH16Yzp0Ur?direction=a](https://drive.google.com/file/d/1GHrULpriH0-3aV3wJIgIs3hk0r5v3vTK/view?usp=drive_link)
 
   
     
